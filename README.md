@@ -1,24 +1,37 @@
-# README
+# 文房具
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+文房具投稿アプリ
 
-Things you may want to cover:
+### サイトテーマ
+*他ユーザの投稿を見ることによって、多くの人が自分に合う物と出会えるようにしたい。*
 
-* Ruby version
+### テーマを選んだ理由
+私は文房具を見たり購入したりすることが好きです。  
+お店に行って、時間をかけて購入する物を選別するのも良いですが、  
+自分が欲しいと思えるものを事前に調べられるようなアプリが欲しいと思い、  
+今回このテーマを選びました。  
+また、PC機器が多く出回る世の中、ペンや紙の手帳などの文房具に触れる機会が少なくなっています。  
+このアプリをきっかけに、「この文房具買ってみようかな」「文房具っていいな」と思う人が増えると嬉しいです。
 
-* System dependencies
+### ターゲットユーザ
+学生/ビジネスマン/定年された方(性別は関係なし)
 
-* Configuration
+### 主な利用シーン
+文房具購入前
 
-* Database creation
+## 設計書
 
-* Database initialization
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
